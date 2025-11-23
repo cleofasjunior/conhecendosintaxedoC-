@@ -1,0 +1,25 @@
+# --- C# / .NET ---
+# Ignora as pastas de compilação (onde ficam os .exe e .dll)
+bin/
+obj/
+# Arquivos de configuração de usuário (não devem ir pro GitHub)
+*.user
+*.userosscache
+*.suo
+
+
+# Ignora ambientes virtuais (se você criar no futuro)
+venv/
+env/
+.env
+
+# --- VS Code / Editores ---
+# Ignora configurações específicas da sua máquina
+.vscode/
+*.code-workspace
+
+# --- Sistema Operacional ---
+# Arquivos de metadados do Windows e Mac
+Thumbs.db
+Desktop.ini
+.DS_Store
