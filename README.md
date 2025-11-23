@@ -37,9 +37,10 @@ $$
 ```bash
 cd src
 
-3. Execute o projeto:
+2. Execute o projeto:
 ```bash
 dotnet run
+
 
 🧪 Exemplo de Uso
 
@@ -53,5 +54,6 @@ Imposto (10%): - R$ 200.00
 Benefícios:   + R$ 250.00
 -----------------------
 💰 Salário a transferir: R$ 2050.00
+
 
 Desenvolvido por Cleófas Júnior durante a jornada de transição para Engenharia de Software.
